@@ -23,9 +23,10 @@ figcaption {
 }
 #details {
   display: block;
-  margin: 0 auto;
 }
 #details div {
+  width: 25%;
   float: left;
   background: lightgray;
+  border: 1px solid red;
 }
