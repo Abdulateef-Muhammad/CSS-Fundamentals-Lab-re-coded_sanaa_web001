@@ -3,10 +3,6 @@ body {
   height: 100%;
   margin: 0;
 }
-header {
+header , figure{
   text-align: center;
-}
-figure {
-  /*text-align: center;*/
-  margin: 0 auto;
 }
