@@ -23,7 +23,9 @@ figcaption {
 }
 #details {
   display: block;
+  margin: 0 auto;
 }
 #details div {
   float: left;
+  background: lightgray;
 }
