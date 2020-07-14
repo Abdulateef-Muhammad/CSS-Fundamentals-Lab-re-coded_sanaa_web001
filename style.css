@@ -11,6 +11,12 @@ nav a {
   padding-right: 10px;
   background: gainsboro;
 }
+img {
+  width: 900px;
+}
+#featured-property {
+  width: 800px;
+}
 figcaption {
   font-size: 12px;
 }
